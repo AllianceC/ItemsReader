@@ -1,0 +1,9 @@
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\bin\Debug\ItemsReader.exe.config
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\bin\Debug\ItemsReader.exe
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\bin\Debug\ItemsReader.pdb
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\obj\Debug\ItemsReader.csprojResolveAssemblyReference.cache
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\obj\Debug\ItemsReader.Form1.resources
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\obj\Debug\ItemsReader.Properties.Resources.resources
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\obj\Debug\ItemsReader.csproj.GenerateResource.Cache
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\obj\Debug\ItemsReader.exe
+c:\users\aldog\documents\visual studio 2013\Projects\ItemsReader\ItemsReader\obj\Debug\ItemsReader.pdb
